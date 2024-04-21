@@ -1,0 +1,65 @@
+[
+    {
+        "description": "Grocery Shopping",
+        "amount": 150.75,
+        "type": "DEBIT",
+        "category": "Groceries",
+        "date": "2024-04-01"
+    },
+    {
+        "description": "Salary",
+        "amount": 3000.00,
+        "type": "CREDIT",
+        "category": "Income",
+        "date": "2024-04-02"
+    },
+    {
+        "description": "Coffee Shop",
+        "amount": 5.50,
+        "type": "DEBIT",
+        "category": "Dining",
+        "date": "2024-04-03"
+    },
+    {
+        "description": "Utility Bill",
+        "amount": 120.00,
+        "type": "DEBIT",
+        "category": "Utilities",
+        "date": "2024-04-04"
+    },
+    {
+        "description": "Car Loan Repayment",
+        "amount": 250.00,
+        "type": "DEBIT",
+        "category": "Loans",
+        "date": "2024-04-05"
+    },
+    {
+        "description": "Gym Membership",
+        "amount": 75.00,
+        "type": "DEBIT",
+        "category": "Health & Fitness",
+        "date": "2024-04-06"
+    },
+    {
+        "description": "Dividend from Stocks",
+        "amount": 200.00,
+        "type": "CREDIT",
+        "category": "Investments",
+        "date": "2024-04-07"
+    },
+    {
+        "description": "Restaurant Dinner",
+        "amount": 45.00,
+        "type": "DEBIT",
+        "category": "Dining",
+        "date": "2024-04-08"
+    },
+    {
+        "description": "Refund for Overcharged Meal",
+        "amount": 45.00,
+        "type": "CREDIT",
+        "category": "Dining",
+        "date": "2024-04-09"
+    }
+]
